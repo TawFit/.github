@@ -1,4 +1,4 @@
-# Tawfit - AI-Powered Health Coach for Kenya
+# Tawfit
 
 Tawfit is a personalized fitness and nutrition app designed specifically for Kenyan users. The platform uses artificial intelligence to create customized diet and exercise plans for weight management, addressing the growing health challenges in Kenya where roughly 30% of the population is overweight or obese, yet only 19% receive proper weight-loss guidance from healthcare providers.
 
